@@ -1,0 +1,26 @@
+PODS:
+  - Charts (3.0.2):
+    - Charts/Core (= 3.0.2)
+  - Charts/Core (3.0.2)
+  - RandomKit (5.2.2):
+    - ShiftOperations (~> 1.0.2)
+    - Threadly (~> 1.0)
+  - ShiftOperations (1.0.2)
+  - SwiftRandom (1.0.0)
+  - Threadly (1.2.0)
+
+DEPENDENCIES:
+  - Charts
+  - RandomKit (~> 5.2.2)
+  - SwiftRandom
+
+SPEC CHECKSUMS:
+  Charts: 236d6ccdd0ce6feae151d89e829a7397381a21fd
+  RandomKit: 40ca2e2a121c24170799c28f6a8cb5da80be7ec6
+  ShiftOperations: 702c9aa98d3b20d98dceb71dd8437b562f7ab3ad
+  SwiftRandom: 437275c63500ddf5a565cbd56996fb23f12cfc3d
+  Threadly: b772ed7c1ff4a3f03eb4600bbc5ef83b3be5cb29
+
+PODFILE CHECKSUM: e1ddb858c086c7f3f606c7c841b8717d71c94d8c
+
+COCOAPODS: 1.2.1
